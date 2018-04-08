@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#description    :Nutanix password change bash script to be run from one of the CVMs in a configured cluster after initial cluster config completed
+#description    :Nutanix password change bash script to be run from one of the CVMs in a configured cluster 
+# after initial cluster config completed. Assume IPMI default password "ADMIN" howerver can be changed on line 12. 
 #author         :Askar Sattar
 #updated        :2017-09-20
 #version        :1.0    
